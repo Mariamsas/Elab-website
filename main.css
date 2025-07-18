@@ -218,6 +218,15 @@ footer {
   color: #444;
   font-size: 1.05rem;
 }
+.services-img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 2rem auto;
+  border-radius: 18px;
+  box-shadow: 0 2px 16px rgba(106,130,251,0.10);
+  object-fit: cover;
+}
 
 /* Responsive */
 @media (max-width: 700px) {
